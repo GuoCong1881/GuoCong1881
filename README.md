@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GuoCong1881, current graduate student in Brandeis University
+- 👋 Hi, I’m @GuoCong1881, current graduate student at Brandeis University
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking for an SDE internship opportunity in summer 2023
 - 📫 Email me @ireneguo@brandeis.edu
